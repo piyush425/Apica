@@ -44,3 +44,8 @@ docker-compose up --build
 
 ```
 
+## Additional Documentation
+For more detailed documentation, refer to this [link](https://docs.google.com/document/d/1GRLeTdvJL7F6crsuJdqCg8rjolisnUcYaMsGp2ViWBQ/edit?usp=sharing).
+
+
+
